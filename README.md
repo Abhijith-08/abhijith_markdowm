@@ -11,7 +11,7 @@ class java_class {
   public static void main(String[] arg) {
     System.out.println("Earth is a rocky planet with a solid surface and a gaseous atmosphere");
   }
-} 
+} ```
 -[x] header
 -[x] image
 -[x] task
